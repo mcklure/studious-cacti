@@ -1,8 +1,26 @@
+body{
+    font-family: 'Alatsi', sans-serif;
+}
 
+h1{
+    color:darkgoldenrod;
+}
+h2{
+    color:bisque;
+}
+h3{
+    color:darkolivegreen;
+}
+h4{
+    color:darkslategrey;
+}
 h5{
     color: peru;
 }
 
 h6 {
     color: blueviolet;
+}
+p {
+    font-family: 'Alatsi', sans-serif;
 }
